@@ -193,14 +193,6 @@ class PaulShervin:
 
 ---
 
-## 📈 Contribution Activity Graph
-
-<div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=PaulShervin&bg_color=0d1117&color=00d9ff&line=0891b2&point=ffffff&area=true&hide_border=true&radius=8" />
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
