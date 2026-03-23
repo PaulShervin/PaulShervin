@@ -165,8 +165,19 @@ class PaulShervin:
 <div align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=PaulShervin&bg_color=0d1117&color=00d9ff&line=0891b2&point=ffffff&area=true&hide_border=true&radius=8" />
 </div>
+## 🔥 LeetCode Stats & Streak
 
----
+<div align="center">
+
+<!-- Stats + Heatmap -->
+<img src="https://leetcard.jacoblin.cool/paulshervinp?theme=dark&font=Fira+Code&ext=heatmap&width=500" />
+
+<br/><br/>
+
+<!-- Activity Graph -->
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=paulshervinp&theme=dark" />
+
+</div>
 
 ## 🌐 Connect With Me
 
