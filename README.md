@@ -10,7 +10,7 @@
 
 <br/>
 
-<!-- Profile Views + Followers + Stars -->
+<!-- Profile Views + Followers -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=PaulShervin&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS" />
   <a href="https://github.com/PaulShervin">
@@ -156,28 +156,50 @@ class PaulShervin:
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PaulShervin&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=PaulShervin&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=7" />
 </div>
+
 ---
 
-## 📈 Contribution Activity
+## 🔥 LeetCode Stats & Badges
+
+<div align="center">
+
+| LeetCode Stats | LeetCode Badges |
+|:-:|:-:|
+| <img src="https://leetcard.jacoblin.cool/paulshervinp?theme=dark&font=Fira+Code&ext=heatmap&width=400&height=400" /> | <img src="https://leetcode-badge-showcase.vercel.app/api?username=paulshervinp&theme=dark&border_radius=10" width="400" height="400" /> |
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PaulShervin/PaulShervin/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PaulShervin/PaulShervin/output/github-contribution-grid-snake.svg"/>
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/PaulShervin/PaulShervin/output/github-contribution-grid-snake-dark.svg"/>
+  </picture>
+</div>
+
+---
+
+## 🌐 3D Contribution Calendar
+
+<div align="center">
+  <img src="https://github.com/PaulShervin/PaulShervin/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" />
+</div>
+
+---
+
+## 📈 Contribution Activity Graph
 
 <div align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=PaulShervin&bg_color=0d1117&color=00d9ff&line=0891b2&point=ffffff&area=true&hide_border=true&radius=8" />
 </div>
-## 🔥 LeetCode Stats & Streak
 
-<div align="center">
-
-<!-- Stats + Heatmap -->
-<img src="https://leetcard.jacoblin.cool/paulshervinp?theme=dark&font=Fira+Code&ext=heatmap&width=500" />
-
-<br/><br/>
-
-<!-- Activity Graph -->
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=paulshervinp&theme=dark" />
-
-</div>
+---
 
 ## 🌐 Connect With Me
 
@@ -203,6 +225,9 @@ class PaulShervin:
 </a>
 <a href="mailto:paulshervin77@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/u/paulshervinp/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 </div>
