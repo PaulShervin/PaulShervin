@@ -153,14 +153,6 @@ class PaulShervin:
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PaulShervin&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=7" />
-</div>
-
----
-
 ## 🔥 LeetCode Stats & Badges
 
 <div align="center">
@@ -188,10 +180,8 @@ class PaulShervin:
 ## 🌐 3D Contribution Calendar
 
 <div align="center">
-  <img src="https://github.com/PaulShervin/PaulShervin/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" />
+  <img src="https://github.com/PaulShervin/PaulShervin/blob/main/profile-3d-contrib/profile-green-animate.svg" alt="3D Contributions" />
 </div>
-
----
 
 ## 🌐 Connect With Me
 
