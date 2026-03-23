@@ -1,16 +1,11 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=PAUL%20SHERVIN%20P&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20%2F%20ML%20Engineer%20%7C%20System%20Architect%20%7C%20Builder&descAlignY=58&descSize=18"/>
 
-<!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=AI+%2F+ML+Engineer+%F0%9F%A4%96;Multi-Agent+%26+Autonomous+Systems+Builder+%F0%9F%9A%80;Semantic+Segmentation+%7C+Path+Planning+%7C+Spatial+AI+%F0%9F%A7%A0;Java+DSA+%7C+Python+ML+%7C+Full+Stack+Dev+%F0%9F%92%BB;Currently+Building+JanaNaddi+%F0%9F%8C%8A" alt="Typing SVG" />
 </a>
 
-<br/>
-
-<!-- Profile Views + Followers -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=PaulShervin&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS" />
   <a href="https://github.com/PaulShervin">
@@ -22,31 +17,40 @@
 
 ---
 
-## 🧠 About Me
+## 🧠 System Configurations
 
 ```python
 class PaulShervin:
-    name       = "Paul Shervin P"
-    role       = "AI/ML Engineer"
-    location   = "India 🇮🇳"
-    email      = "paulshervin77@gmail.com"
-    
-    focus = [
-        "Multi-Agent & Autonomous Decision Systems",
-        "Collision-Aware Path Planning",
-        "Spatial Optimization Models",
-        "Semantic Segmentation Pipelines",
-    ]
-    
-    current_project = "JanaNaddi 🌊 → jana-naadi.vercel.app"
-    learning_now    = "Spring Boot ☕"
-    open_to         = "Collaborations on Impactful Projects 🤝"
-    
-    def greet(self):
-        return "Let's build intelligent systems that matter. 🚀"
-```
+    def __init__(self):
+        self.name       = "Paul Shervin P"
+        self.role       = "AI/ML Engineer & System Architect"
+        self.location   = "India 🇮🇳"
+        self.email      = "paulshervin77@gmail.com"
+        
+        self.research_interests = [
+            "Multi-Agent Reinforcement Learning (MARL)",
+            "Collision-Aware Path Planning Algorithms",
+            "Spatial Optimization & Semantic Segmentation",
+            "Autonomous Decision-Making Frameworks"
+        ]
+        
+        self.current_stack = {
+            "backend": "Spring Boot & FastAPI",
+            "intelligence": "PyTorch & OpenCV",
+            "deployment": "Docker & Kubernetes"
+        }
 
+    def get_status(self):
+        return {
+            "building": "JanaNaddi (jana-naadi.vercel.app)",
+            "learning": "Enterprise Patterns in Spring Boot",
+            "open_to": ["Impactful Collaborations", "Research R&D"]
+        }
+
+    def greet(self):
+        return "Build systems that think, not just execute. 🚀"
 ---
+```
 
 ## 🚀 Current Focus
 
