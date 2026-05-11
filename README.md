@@ -17,7 +17,7 @@
 
 ---
 
-## 🧠 System Configurations
+##  System Configurations
 
 ```python
 class PaulShervin:
@@ -48,22 +48,22 @@ class PaulShervin:
         }
 
     def greet(self):
-        return "Build systems that think, not just execute. 🚀"
+        return "Build systems that think, not just execute. "
 ---
 ```
 
-## 🚀 Current Focus
+## Current Focus
 
-> 🔭 Working on **[JanaNaddi](http://jana-naadi.vercel.app/)** — a real-world AI-driven platform  
-> 🌱 Learning **Spring Boot** for enterprise-grade backend systems  
-> 👥 Open to **collaborating** on interesting and impactful projects  
-> 📬 Reach me at **[paulshervin77@gmail.com](mailto:paulshervin77@gmail.com)**
+>  Working on **[JanaNaddi](http://jana-naadi.vercel.app/)** — a real-world AI-driven platform  
+>  Learning **Spring Boot** for enterprise-grade backend systems  
+>  Open to **collaborating** on interesting and impactful projects  
+>  Reach me at **[paulshervin77@gmail.com](mailto:paulshervin77@gmail.com)**
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## Tech Stack & Skills
 
-### 💡 AI / ML / Data Science
+### AI / ML / Data Science
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
@@ -72,14 +72,14 @@ class PaulShervin:
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 </p>
 
-### 🖥️ Languages
+###  Languages
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-### 🌐 Frontend
+###  Frontend
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
@@ -92,7 +92,7 @@ class PaulShervin:
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 </p>
 
-### ⚙️ Backend & APIs
+###  Backend & APIs
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
@@ -103,7 +103,7 @@ class PaulShervin:
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 </p>
 
-### 🗄️ Databases
+###  Databases
 <p>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -112,7 +112,7 @@ class PaulShervin:
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
 </p>
 
-### ☁️ Cloud & DevOps
+###  Cloud & DevOps
 <p>
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
@@ -122,7 +122,7 @@ class PaulShervin:
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
 </p>
 
-### 🔧 Tools & Design
+###  Tools & Design
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
@@ -136,7 +136,7 @@ class PaulShervin:
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -157,7 +157,7 @@ class PaulShervin:
 
 ---
 
-## 🔥 LeetCode Stats & Badges
+##  LeetCode Stats & Badges
 
 <div align="center">
 
@@ -169,7 +169,7 @@ class PaulShervin:
 
 ---
 
-## 🐍 Contribution Snake
+##  Contribution Snake
 
 <div align="center">
   <picture>
@@ -181,13 +181,13 @@ class PaulShervin:
 
 ---
 
-## 🌐 3D Contribution Calendar
+##  3D Contribution Calendar
 
 <div align="center">
   <img src="https://github.com/PaulShervin/PaulShervin/blob/main/profile-3d-contrib/profile-green-animate.svg" alt="3D Contributions" />
 </div>
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 <div align="center">
 
@@ -222,7 +222,7 @@ class PaulShervin:
 
 <div align="center">
 
-### 💬 Quote I Live By
+###  Quote I Live By
 
 > *"Build systems that think, not just execute."*
 
