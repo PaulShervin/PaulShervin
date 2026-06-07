@@ -140,18 +140,13 @@ class PaulShervin:
 
 <div align="center">
 
-<a href="http://www.github.com/PaulShervin">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=PaulShervin&show_icons=true&count_private=true&title_color=00d9ff&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=true&border_radius=12&include_all_commits=true" />
-</a>
-<a href="https://github-readme-streak-stats.herokuapp.com">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=PaulShervin&stroke=00d9ff&background=0d1117&ring=00d9ff&fire=ff6b35&currStreakNum=ffffff&currStreakLabel=00d9ff&sideNums=ffffff&sideLabels=00d9ff&dates=888888&hide_border=true&border_radius=12" />
-</a>
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PaulShervin&show_icons=true&theme=tokyonight" />
 
-<br/>
+<img width="49%" src="https://streak-stats.demolab.com?user=PaulShervin&theme=tokyonight" />
 
-<a href="https://github.com/PaulShervin">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulShervin&langs_count=10&title_color=00d9ff&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=true&border_radius=12&layout=compact&custom_title=Top%20Languages" />
-</a>
+<br><br>
+
+<img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PaulShervin&layout=compact&theme=tokyonight" />
 
 </div>
 
