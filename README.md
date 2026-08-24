@@ -136,22 +136,6 @@ class PaulShervin:
 
 ---
 
-##  GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PaulShervin&show_icons=true&theme=tokyonight" />
-
-<img width="49%" src="https://streak-stats.demolab.com?user=PaulShervin&theme=tokyonight" />
-
-<br><br>
-
-<img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PaulShervin&layout=compact&theme=tokyonight" />
-
-</div>
-
----
-
 ##  LeetCode Stats & Badges
 
 <div align="center">
